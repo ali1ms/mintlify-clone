@@ -1,6 +1,4 @@
-## mintlify-clone
-
-# cursor-clone
+# mintlify-clone
 Cursor-clone  made at ChaiCode
 
  # Sections build in this project
